@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    border: 15px solid orange;
+
+    
+
+}
+.tableCell{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+td, th{
+
+    border: 1px solid black;
+}
+.pennyButton{
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    margin-left: 4px;
+    margin-right: 4px;
+
+}
+.body-bag{
+    color:white;
+    background-color: blue;
+}
+
+.flip-button{
+background-color: rgb(48, 48, 214);
+border-radius: 7px;
+height: 25px;
+}
+
+.reset-button{
+    background-color : rgb(201, 155, 70);
+    border-radius: 7px;
+    height: 25px;
+}
